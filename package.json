@@ -23,6 +23,7 @@
     "ffprobe": "^1.1.2",
     "fluent-ffmpeg": "^2.1.2",
     "fs": "^0.0.1-security",
+    "pixabay-api": "^1.0.4",
     "uuidv4": "^6.2.13"
   },
   "scripts": {
