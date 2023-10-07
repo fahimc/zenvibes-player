@@ -61,6 +61,7 @@ const LibraryContainer = styled.div`
   @media screen and (max-width: 768px) {
     width: 100%;
     z-index: 9;
+    margin-top: 80px;
   }
 `;
 
